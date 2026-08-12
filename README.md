@@ -3,7 +3,7 @@
 DirectX11 기반 6인 팀 프로젝트로, 원작 전투 연출을 재현하는 과정에서 **전투 카메라**, **각성 컷신**, **미니맵 UI**를 구현했습니다.  
 포트폴리오 문서 기준으로 제 핵심 기여는 Combat Camera System, Awakening Cutscene System, Minimap UI System입니다.
 
-상세 기술 문서 : https://drive.google.com/file/d/1H6HSmtyNmirEZvm-4HVJp8ri4Fd1YjDS/view?usp=sharing
+상세 기술 문서 : https://drive.google.com/file/d/1js4_Pwcgg-iKIklaoIsNlxlvrT8B1KoW/view?usp=sharing
 
 ## Project Info
 - **Engine**: DirectX11
